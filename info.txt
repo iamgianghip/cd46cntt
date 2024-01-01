@@ -1,3 +1,19 @@
 Thông tin môn đun: Thiết kế và quản trị website
 Thời lượng: 90h/18ca
 Số bài kiểm tra: 4
+
+
+
+…or create a new repository on the command line
+echo "# cd46cntt" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/iamgianghip/cd46cntt.git
+git push -u origin main
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/iamgianghip/cd46cntt.git
+git branch -M main
+git push -u origin main
